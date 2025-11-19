@@ -18,4 +18,6 @@
 
 ## Podcasts
 
-[This IS research](https://www.janrecker.com/this-is-research-podcast/), with a focus on Information Systems research
+[SciLux](https://scilux.buzzsprout.com/) - Podcast about science in Luxembourg and beyond 
+[This IS research](https://www.janrecker.com/this-is-research-podcast/) - with a focus on Information Systems research
+

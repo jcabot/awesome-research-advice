@@ -32,7 +32,3 @@ If you are interested in contributing to this project, please either:
 
 -  Submit pull requests to this repository, which we will review according to the governance rules of the project.
 -  [Fill the form](https://research-rants.com/get-in-touch/) to send you 
-
-# Awesome research advice list
-
-Resources to help (junior) researchers navigate research life and get the most out of it 

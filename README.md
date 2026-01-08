@@ -14,6 +14,8 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [Frequently Asked Questions in Academica](https://gboleda.github.io/faq/)
 
+[Simple heuristics to run a research group](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.533)
+
 ## Projects
 
 [Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)

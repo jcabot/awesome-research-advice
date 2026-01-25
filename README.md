@@ -16,6 +16,10 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [Simple heuristics to run a research group](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.533)
 
+[On whether your goal should be to publish a literature review on your thesis topic](https://harzing.com/blog/2021/06/do-you-really-want-to-publish-your-literature-review-advice-for-phd-students)
+
+[Tips for writing grant proposals in ICT](https://ict-research.nl/wp-content/uploads/2026/01/Tips-for-Writing-Personal-Grant-Proposals-in-ICT-version-2026.pdf)
+
 ## Projects
 
 [Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)
@@ -25,6 +29,10 @@ Resources to help (junior) researchers navigate research life and get the most o
 [SciLux](https://scilux.buzzsprout.com/) - Podcast about science in Luxembourg and beyond
 
 [This IS research](https://www.janrecker.com/this-is-research-podcast/) - with a focus on Information Systems research
+
+## Tools
+
+[CERCA – Citation Extraction & Reference Checking Assistant](https://github.com/lidianycs/cerca) 
 
 ## Contributing
 

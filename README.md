@@ -5,6 +5,7 @@ Resources to help (junior) researchers navigate research life and get the most o
 ## Books
 
 [How to Survive (and Thrive) in Research: The little book of research wisdom and unspoken truths every junior researcher should know](https://research-rants.com/) 
+
 [Survival skills for scientsits](https://www.worldscientific.com/worldscibooks/10.1142/p441#t=aboutBook)
 
 ## Blog posts and online articles

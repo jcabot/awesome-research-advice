@@ -41,4 +41,4 @@ We encourage contributions from the community and any comment is welcome!
 If you are interested in contributing to this project, please either:
 
 -  Submit pull requests to this repository, which we will review according to the governance rules of the project.
--  [Fill the form](https://research-rants.com/get-in-touch/) to send you 
+-  [Fill the form](https://research-rants.com/get-in-touch/) to send me your input 

@@ -28,8 +28,11 @@ Resources to help (junior) researchers navigate research life and get the most o
 ## Podcasts
 
 [SciLux](https://scilux.buzzsprout.com/) - Podcast about science in Luxembourg and beyond
+
 [This IS research](https://www.janrecker.com/this-is-research-podcast/) - with a focus on Information Systems research
+
 [Amplifying research](https://www.amplifyingresearch.com/pod) - helping researchers maximize their impact
+
 [Research Adjacent](https://researchadjacent.com/podcast/) - highlighting the work of people that make research possible even if they are not researchers themselves.
 
 

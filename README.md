@@ -22,11 +22,9 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [Tips for writing grant proposals in ICT](https://ict-research.nl/wp-content/uploads/2026/01/Tips-for-Writing-Personal-Grant-Proposals-in-ICT-version-2026.pdf)
 
-[Science careers](https://www.science.org/careers): set of blog posts where people talk about their careers in research
+[Science careers](https://www.science.org/careers) - set of blog posts where people talk about their careers in research
 
-## Projects
-
-[Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)
+[Ten Simple rules](https://collections.plos.org/collection/ten-simple-rules/?utm_source=chatgpt.com) - Quick and short advices for several professional challenges that researchers face
 
 ## Podcasts
 
@@ -38,10 +36,15 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [Research Adjacent](https://researchadjacent.com/podcast/) - highlighting the work of people that make research possible even if they are not researchers themselves.
 
+[Phd Life Raft](https://thephdliferaft.com/podcast/) - support and motivation focusing on PhD students 
 
 ## Tools
 
-[CERCA – Citation Extraction & Reference Checking Assistant](https://github.com/lidianycs/cerca) 
+[CERCA – Citation Extraction & Reference Checking Assistant](https://github.com/lidianycs/cerca)
+
+## Projects
+
+[Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)
 
 ## Contributing
 

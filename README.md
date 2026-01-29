@@ -22,6 +22,8 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [Tips for writing grant proposals in ICT](https://ict-research.nl/wp-content/uploads/2026/01/Tips-for-Writing-Personal-Grant-Proposals-in-ICT-version-2026.pdf)
 
+[Science careers](https://www.science.org/careers): set of blog posts where people talk about their careers in research
+
 ## Projects
 
 [Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)

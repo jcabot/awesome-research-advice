@@ -42,6 +42,10 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [CERCA – Citation Extraction & Reference Checking Assistant](https://github.com/lidianycs/cerca)
 
+## Comics
+
+[PhD Comics](https://phdcomics.com/)
+
 ## Projects
 
 [Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)

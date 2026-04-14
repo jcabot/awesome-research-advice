@@ -50,6 +50,10 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [Prosper. Unlocking postdoc career potential](https://www.liverpool.ac.uk/researcher/prosper/)
 
+## FAQ and Q&A
+
+[Academia Stack Exchange](https://academia.stackexchange.com/) - A useful platform for common questions about academic careers, as well as a Q&A space for more specific or niche inquiries.
+
 ## Contributing
 
 We encourage contributions from the community and any comment is welcome!

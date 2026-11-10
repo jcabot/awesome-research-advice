@@ -42,6 +42,8 @@ Resources to help (junior) researchers navigate research life and get the most o
 
 [CERCA – Citation Extraction & Reference Checking Assistant](https://github.com/lidianycs/cerca)
 
+[ProfScout](https://profscout.com) - Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.
+
 ## Comics
 
 [PhD Comics](https://phdcomics.com/)
